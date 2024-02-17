@@ -1,2 +1,2 @@
 # monets
-Library (gallery) of open/free MONETs as monetization commons
+Library (gallery) of MONETs as lead conversion (monetization) magnets
