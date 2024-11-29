@@ -4,7 +4,7 @@ Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrume
 
 MONET CIPHERS:
 
-Monet cipher displays the value scripts underlying the given monet. Scripts are nerves or simplicial sets of benefits of a product regarded as a small category, reduced from partial orders to total orders, i.e. linearized/serialized.
+Monet cipher (cf. code) displays the value scripts (cf. programs and protocols) underlying the given monet. Scripts are nerves or simplicial sets of benefits of a product regarded as a small category, reduced from partial orders to total orders, i.e. linearized/serialized.
 
 NEUROCOINS:
 
