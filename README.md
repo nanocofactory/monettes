@@ -10,11 +10,11 @@ Neurocomputation (distinguished from  neurocomputing) is quantum-perceptual huma
 
 MONETS:
 
-Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrument (structured commerce product) for monetization - is precommitment virtual hedge instrument representing a hybrid of gift card/certificate/voucher, product bundle, option (finance) and promotional merchandise. They act as buyer decision diffusion channel gain (valorization) proxy media used as ancillas in reversible secure conversion neurocomputation for delayed concurrent consumer choice. Monets are monic (at least over compositions (composable morphisms) of benefits) nets/filters. They are rendered with rightward directed diagrams.
+Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrument (structured commerce product) for monetization - is precommitment virtual hedge instrument representing a hybrid of gift card/certificate/voucher, product bundle, option (finance) and promotional merchandise. They act as buyer decision diffusion channel gain (valorization) proxy media used as ancillas in reversible secure conversion neurocomputation for delayed concurrent consumer choice. Monets are monic (at least over compositions (composable morphisms) of benefits) nets/filters. They are represented with rightward directed diagrams.
 
 MONET CIPHERS:
 
-Monet cipher (cf. code), as topological monet credential, displays the value scripts (cf. programs and protocols) underlying the given monet. Scripts are nerves or simplicial sets of benefits of a product regarded as a small category, reduced from partial orders to total orders, i.e. linearized/serialized. They generalize the convolutional composed chains of product benefits as signals/stimuli/impulses and respective customer/consumer responses. Fiber bundles/fibrations on these simplicial structures code for and, by homotopy lifting properties, cipher for use value.
+Monet cipher (cf. code), as topological monet credential, displays the embedding of value scripts (cf. programs and protocols) underlying the given monet. Scripts are nerves or simplicial sets of benefits of a product regarded as a small category, reduced from partial orders to total orders, i.e. linearized/serialized. They generalize the convolutional composed chains of product benefits as signals/stimuli/impulses and respective customer/consumer responses. Fiber bundles/fibrations on these simplicial structures code for and, by homotopy lifting properties, cipher for use value.
 
 NEUROCOINS:
 
