@@ -1,6 +1,6 @@
 MONETS:
 
-Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrument - is virtual hedge representing a hybrid of gift card, bundle, option (finance) and merch.
+Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrument - is virtual hedge representing a hybrid of gift card/certificate/voucher, product bundle, option (finance) and promotional merchandise.
 
 MONET CIPHERS:
 
