@@ -1,6 +1,6 @@
 NEUROCOMPUTATION:
 
-Neurocomputation (distinguished from  neurocomputing) is: quantum-perceptual human/social computing that:
+Neurocomputation (distinguished from  neurocomputing) is quantum-perceptual human/social computing that:
 
 1 - computes homomorphisms (in topological benefit spaces of values) rather than functions (in metric feature spaces of products);<br>
 2 - carries by corecursion (over simplicial sets/complexes as objects) rather than by recursion (over graphs/networks as objects);<br>
