@@ -7,7 +7,7 @@ Neurocomputation (distinguished from  neurocomputing) is quantum-perceptual - in
 3 - is designed and runs as non-well-defined calculation;<br>
 4 - is enactive rather than interactive;<br>
 5 - is subsymbolic (computing with diagrams) rather than symbolic (computing with words);<br>
-6 - uses scripts (noncommutative/permutational) rather than frames (commutative/combinational);
+6 - uses scripts (noncommutative/permutational) rather than frames (commutative/combinational);<br>
 7 - has inquisitive semantics rather than classical semantics;<br>
 8 - draws on dynamic ontic logic (onticology) rather than on dynamic epistemic and deontic logics. 
 
@@ -21,4 +21,4 @@ Monet cipher (cf. code), as topological monet credential, displays the embedding
 
 NEUROCOINS:
 
-Neurocoin (scryptocurrency, e.g. $GoodMood), i.e. markex token, is encrypted as a single or multiple intersections/overlaps/conjunctions (entanglements) of scripts (path polyominoes marked with different colors) as nerve face intersection/corner/coin or nerve (nerve complex) filter/filtration member. Neurocoins form nerve filter banks/context tree banks. Scripts are in general multi-indexed by one or more indices (index sets; see respective co-labelled polyomino partitions on monet cipher diagrams).
+Neurocoin (scryptocurrency, e.g. $GoodMood), i.e. markex token, is encrypted as a single or multiple intersections/overlaps/conjunctions (entanglements) of scripts (path polyominoes marked with different colors) as nerve face intersection/corner/coin or nerve (nerve complex) filter/filtration member. Neurocoins form nerve filter banks/context tree banks for ensemble synchronization. Scripts are in general multi-indexed by one or more indices (index sets; see respective co-labelled polyomino partitions on monet cipher diagrams).
