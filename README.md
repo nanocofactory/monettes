@@ -21,4 +21,4 @@ Monet cipher (cf. code), as topological monet credential, displays the embedding
 
 NEUROCOINS:
 
-Neurocoin (scryptocurrency, e.g. $GoodMood), i.e. markex token, is encrypted as a single or multiple intersections/overlaps/conjunctions (entanglements) of scripts (path polyominoes marked with different colors) as nerve face intersection/corner/coin or nerve (nerve complex) filter/filtration member. Neurocoins form nerve filter banks/context tree banks for ensemble synchronization. Scripts are in general multi-indexed by one or more indices (index sets; see respective co-labelled polyomino partitions on monet cipher diagrams).
+Neurocoin (scryptocurrency, e.g. $GoodMood), i.e. markex token, is encrypted as a single or multiple intersections/overlaps/conjunctions (entanglements) of scripts (path polyominoes marked with different colors) as nerve face intersection/corner/coin or nerve (nerve complex) filter/filtration member. Neurocoins form nerve filter banks/context tree banks for ensemble synchronization. Scripts are in general multi-indexed by one or more indices (path polyomino partitions labelled with different index (sub)sets).
