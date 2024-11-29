@@ -6,7 +6,8 @@ Neurocomputation (distinguished from  neurocomputing) is quantum-perceptual - in
 2 - carries by corecursion (over simplicial sets/complexes as objects) rather than by recursion (over graphs/networks as objects);<br>
 3 - is designed and runs as non-well-defined calculation;<br>
 4 - is enactive rather than interactive;<br>
-5 - is subsymbolic (computing with diagrams) rather than symbolic (computing with words).
+5 - is subsymbolic (computing with diagrams) rather than symbolic (computing with words);<br>
+6 - uses scripts (noncommutative/permutational) rather than framaes (commutative/combinational).
 
 MONETS:
 
