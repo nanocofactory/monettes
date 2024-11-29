@@ -17,7 +17,7 @@ Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrume
 
 MONET CIPHERS:
 
-Monet cipher (cf. code), as topological monet credential, displays the embedding of value scripts (cf. programs and protocols) underlying and making up the given monet. Values and scripts are compositions/simplices of benefits and of benefit states/objects, and monet cipher is the nerve, i.e. respective simplicial set of the given product regarded as a small category, reduced from partial orders to total orders, i.e. linearized/serialized. They generalize the convolutional chains of product benefits as signals/stimuli/impulses and respective customer/consumer responses. Fiber bundles/fibrations on these simplicial structures code for and, by homotopy lifting properties, cipher for use value (in excess of exchange value, with surplus value being that positive difference).
+Monet cipher (cf. code), as topological monet credential, displays the embedding of value scripts (cf. programs and protocols) underlying and making up the given monet. Values and scripts are compositions/simplices of benefits and of benefit states/objects respectively, and monet cipher is the nerve, i.e. the respective simplicial set of the given product regarded as a small category, reduced from partial orders to total orders, i.e. linearized/serialized. They generalize the convolutional chains of product benefits as signals/stimuli/impulses and respective customer/consumer responses. Fiber bundles/fibrations on these simplicial structures code for and, by homotopy lifting properties, cipher for use value (in excess of exchange value, with surplus value being that positive difference).
 
 NEUROCOINS:
 
