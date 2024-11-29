@@ -1,6 +1,16 @@
+NEUROCOMPUTATION:
+
+Neurocomputation (distinguished from  neurocomputing) is: quantum-perceptual human/social computing that:
+
+1 - computes homomorphisms (in topological spaces) rather than functions (in metric spaces);
+2 - carries by corecursion (over simplicial sets/complexes as objects) rather than by recursion (over graphs/networks as objects);
+3 - operates as non-well-defined calculation;
+4 - is enactive rather than interactive;
+5 - is subsymbolic (computing with texts/diagrams) rather than symbolic (computing with words).
+
 MONETS:
 
-Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrument (structured commerce product) for monetization - is precommitment virtual hedge instrument representing a hybrid of gift card/certificate/voucher, product bundle, option (finance) and promotional merchandise. They act as buyer decision diffusion channel gain (valorization) proxy media used as ancillas in reversible conversion computation for delayed concurrent consumer choice. Monets are monic (at least over compositions) nets/filters. They are rendered with rightward directed diagrams.
+Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrument (structured commerce product) for monetization - is precommitment virtual hedge instrument representing a hybrid of gift card/certificate/voucher, product bundle, option (finance) and promotional merchandise. They act as buyer decision diffusion channel gain (valorization) proxy media used as ancillas in reversible secure conversion neurocomputation for delayed concurrent consumer choice. Monets are monic (at least over compositions) nets/filters. They are rendered with rightward directed diagrams.
 
 MONET CIPHERS:
 
