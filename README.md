@@ -2,9 +2,9 @@ NEUROCOMPUTATION:
 
 Neurocomputation (distinguished from  neurocomputing) is: quantum-perceptual human/social computing that:
 
-1 - computes homomorphisms (in topological spaces) rather than functions (in metric spaces);
-2 - carries by corecursion (over simplicial sets/complexes as objects) rather than by recursion (over graphs/networks as objects);
-3 - operates as non-well-defined calculation;
+1 - computes homomorphisms (in topological spaces) rather than functions (in metric spaces);<br>
+2 - carries by corecursion (over simplicial sets/complexes as objects) rather than by recursion (over graphs/networks as objects);<br>
+3 - operates as non-well-defined calculation;<br>
 4 - is enactive rather than interactive;<br>
 5 - is subsymbolic (computing with texts/diagrams) rather than symbolic (computing with words).
 
