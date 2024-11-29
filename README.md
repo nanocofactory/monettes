@@ -4,8 +4,8 @@ Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrume
 
 MONET CIPHERS:
 
-Monet cipher displays the benefit-to-value scripts underlying the given monet. Scripts are nerves or simplicial sets of benefits of a product as a small category, reduced from partial orders to total orders, i.e. linearized/serialized.
+Monet cipher displays the value scripts underlying the given monet. Scripts are nerves or simplicial sets of benefits of a product as a small category, reduced from partial orders to total orders, i.e. linearized/serialized.
 
 NEUROCOINS:
 
-Neurocoins (scryptocurrency, e.g. $GoodMood), value hash tokens, are encrypted as uni- and multi-intersections/overlaps of benefit-to-value scripts (marked with different colors) as nerve face intersections/corners/coins or nerve (nerve complex) filters/filtration members.
+Neurocoins (scryptocurrency, e.g. $GoodMood), i.e. value hash tokens, are encrypted as uni- and multi-intersections/overlaps of benefit-to-value scripts (marked with different colors) as nerve face intersections/corners/coins or nerve (nerve complex) filters/filtration members.
