@@ -8,4 +8,4 @@ Monet cipher displays the benefit-to-value scripts underlying the given monet. S
 
 NEUROCOINS:
 
-Neurocoins (scryptocurrency, e.g. $GoodMood), value hash tokens, are encrypted as uni- and multi-intersections/overlaps of benefit-to-value scripts (marked with different colors) as nerve (small category's simplicial set) face intersections/corners/coins or nerve filters/filtration members.
+Neurocoins (scryptocurrency, e.g. $GoodMood), value hash tokens, are encrypted as uni- and multi-intersections/overlaps of benefit-to-value scripts (marked with different colors) as nerve face intersections/corners/coins or nerve (nerve complex) filters/filtration members.
