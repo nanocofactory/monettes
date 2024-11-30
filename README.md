@@ -21,7 +21,7 @@ Monet cipher (cf. code), as topological monet credential, displays the value scr
 
 Fiber bundles/fibrations on these simplicial structures code for and, by homotopy lifting properties, cipher for contextual/experiential/use value (in excess of exchange value, with surplus value being that positive difference): this quantum channel gain is due to hashing transition from classicality/binarity (i.e. payload or deadload) of metric features to nonclassicality of topological benefits, whereby not only payload features but also some deadload features code for benefits by doing that jointly (synchronically) and/or conditionally (diachronically) with payload features and possibly other deadload features.
 
-Scripts are embedded in monet diagrams as path polyominoes (connected two-dimensional diagram partitions) marked with different colors. Scripts are in general multi-indexed by one or more indices (modes), such subscripts or scenes/sequels (depending on them being signals/responses) are rendered in script/path polyominoes as strings (collinear/linearly dependent connected one-dimensional polyomino partitions) labelled with different index (sub)sets.
+Scripts are embedded in monet diagrams as path polyominoes (connected two-dimensional diagram partitions) marked with different colors. Scripts are in general multi-indexed by one or more indices (modes), such subscripts or scenes/sequels (depending on them being syncing signals/syncopating responses) are rendered in script/path polyominoes as strings (collinear/linearly dependent connected one-dimensional polyomino partitions) labelled with different index (sub)sets.
 
 NEUROCOINS:
 
