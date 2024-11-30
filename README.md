@@ -13,7 +13,7 @@ Neurocomputation (distinguished from  neurocomputing) is quantum-perceptual - in
 
 MONETS:
 
-Monet - B2C scryptoasset as neuromarketing exchange (markex) investment instrument (structured commerce product) for monetization - is precommitment virtual hedge instrument representing a hybrid of gift card/certificate/voucher, product bundle, option (finance) and promotional merchandise. They act as proxy media for buyer decision diffusion channel amplification (valorization), used as ancillas in reversible secure conversion neurocomputation for delayed concurrent consumer choice. Monets are monic (at least wrt compositions (composable morphisms/simplices) over benefit-objects) nets/filters. They are represented with rightward directed diagrams, where unordered horizontal rows stand for causal channels and ordered vertical columns stand for time slots.
+Monet (comoney, dual with money) - B2C scryptoasset as neuromarketing exchange (markex) investment instrument (structured commerce product) for monetization - is precommitment virtual hedge instrument representing a hybrid of gift card/certificate/voucher, product bundle, option (finance) and promotional merchandise. They act as proxy media for buyer decision diffusion channel amplification (valorization), used as ancillas in reversible secure conversion neurocomputation for delayed concurrent consumer choice. Monets are monic (at least wrt compositions (composable morphisms/simplices) over benefit-objects) nets/filters. They are represented with rightward directed diagrams, where unordered horizontal rows stand for causal channels and ordered vertical columns stand for time slots.
 
 MONET CIPHERS:
 
