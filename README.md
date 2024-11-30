@@ -25,4 +25,4 @@ Scripts are embedded in monet diagrams as path polyominoes (connected two-dimens
 
 NEUROCOINS:
 
-Neurocoin (scryptocurrency, e.g. $GoodMood), i.e. quasi-fungible (rotationally fungible) markex (exchangeable use value) token, is encrypted as a single or multiple intersections/overlaps/conjunctions (entanglements) of scripts as nerve face intersection/corner/coin or nerve (nerve complex) filter/filtration member. Neurocoins form nerve filter banks/context tree banks for ensemble synchronization.
+Neurocoin (scryptocurrency, e.g. $GoodMood), i.e. quasi-fungible (rotationally fungible) markex (exchangeable use value) token, is encrypted as a single or multiple intersections/overlaps/conjunctions (entanglements) of scripts as nerve face intersection/corner/coin or nerve (nerve complex) filter/filtration member. Neurocoins, of which there are five morphological classes (shapes), form nerve filter banks/context tree banks for ensemble synchronization.
