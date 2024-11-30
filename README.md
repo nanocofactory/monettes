@@ -8,7 +8,7 @@ Neurocomputation (distinguished from  neurocomputing) is quantum-perceptual - in
 4 - is enactive rather than interactive;<br>
 5 - is subsymbolic (computing with diagrams) rather than symbolic (computing with words);<br>
 6 - uses scripts (noncommutative/permutational) rather than frames (commutative/combinational);<br>
-7 - has inquisitive semantics rather than classical semantics;<br>
+7 - has inquisitive semantics rather than formal/truth-conditional semantics;<br>
 8 - draws on dynamic ontic logic (onticology) rather than on dynamic epistemic and deontic logics. 
 
 MONETS:
